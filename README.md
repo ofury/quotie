@@ -1,6 +1,6 @@
-# quotie
+# Quotie
 
-A new Flutter project.
+![](assets/images/preview.png)
 
 ## Getting Started
 
