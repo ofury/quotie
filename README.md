@@ -1,8 +1,10 @@
 # Quotie
 
-Some beatufil quotes.
+Some beautiful quotes.
 
-![](assets/preview.png)
+<p align="center">
+  <img height="400" src="assets/preview.png">
+</p>
 
 ## Getting Started
 
