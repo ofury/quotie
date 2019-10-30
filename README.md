@@ -1,6 +1,8 @@
 # Quotie
 
-![](assets/images/preview.png)
+Some beatufil quotes.
+
+![](assets/preview.png)
 
 ## Getting Started
 
